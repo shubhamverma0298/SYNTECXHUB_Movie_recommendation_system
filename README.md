@@ -2,6 +2,7 @@
 
 A full-stack machine learning application that recommends movies based on content similarity. The system analyzes a dataset of 5,000 movies to find patterns in metadata and serves recommendations through a responsive web interface.
 
+
 ## 🚀 Features
 
 * **Content-Based Filtering:** Uses Natural Language Processing (NLP) to recommend movies based on tags.
