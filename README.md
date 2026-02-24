@@ -1,9 +1,3 @@
-This project is a **Content-Based Movie Recommender System** that suggests movies similar to a user's selection based on genres, keywords, cast, and crew. It features a sleek, Netflix-inspired web interface built with Flask.
-
-Here is a comprehensive `README.md` (which is the standard for GitHub) tailored specifically to your files.
-
----
-
 # Movie Recommender System 🎬
 
 A full-stack machine learning application that recommends movies based on content similarity. The system analyzes a dataset of 5,000 movies to find patterns in metadata and serves recommendations through a responsive web interface.
@@ -80,6 +74,3 @@ The app uses the TMDB API to fetch posters. A default key is provided in `app.py
 * `requirements.txt`: List of Python libraries needed.
 * `movie_dict.pkl` & `similarity.pkl`: Pre-computed similarity matrices.
 
----
-
-**Would you like me to help you write a 'How to Contribute' section or a license file for this repository?**
